@@ -4,7 +4,7 @@
 
 ## Bebidas / Drinks
 
-* [Ponche Crema Carupanero](/blob/master/Bebidas%20-%20Drinks/Ponche%20Crema%20Carupanero%20%5Ben%5D.md)
+* [Ponche Crema Carupanero](Bebidas%20-%20Drinks/Ponche%20Crema%20Carupanero%20%5Ben%5D.md)
 
 ----
 # ¿Quieres contribuir?
